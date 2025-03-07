@@ -1,4 +1,4 @@
-FROM docker.io/library/debian:12
+FROM ghcr.io/taffish-org/debian:12
 
 LABEL maintainer="taffish@163.com"
 

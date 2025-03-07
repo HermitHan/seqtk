@@ -28,5 +28,5 @@ ARGS
         # hpc       homopolyer-compressed sequence
         # telo      identify telomere repeats in asm or long reads
 RUN
-    <container:taf-seqtk-v1.4:docker.io/taffish/seqtk:1.4>
+    <container:taf-seqtk-v1.4:ghcr.io/taffish-org/seqtk:1.4>
         ::*MAIN*::

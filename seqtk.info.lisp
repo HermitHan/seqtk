@@ -1,5 +1,5 @@
 (:name           "seqtk")
-(:repo           "HermitHan/seqtk")
+(:repo           "taffish-org/seqtk")
 (:author         "KaiyuanHan")
 (:version        "1.4")
 (:intro          "Toolkit for processing sequences in FASTA/Q formats")
