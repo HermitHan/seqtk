@@ -1,0 +1,7 @@
+(:name           "seqtk")
+(:repo           "HermitHan/seqtk")
+(:author         "KaiyuanHan")
+(:version        "1.4")
+(:intro          "Toolkit for processing sequences in FASTA/Q formats")
+(:dependencies)
+(:functions      "seqtk")
